@@ -3,7 +3,7 @@
 This project demonstrates the implementation of a real-time data pipeline using Apache Kafka, Python's `psutil` library for system metrics collection, and SQL server for data storage. Additionally, the collected metrics are visualized using Power BI, providing real-time insights into system performance.
 
 ## Table of Contents
-- [Real-Time-Data-Pipeline-Kafka-Python-MySQL-PowerBI](#real-time-data-pipeline-kafka-python-mysql-powerbi)
+- [Real-Time-Data-Pipeline-Kafka-Python-SQL server -PowerBI](#real-time-data-pipeline-kafka-python-mysql-powerbi)
   - [Table of Contents](#table-of-contents)
   - [Technologies Used](#technologies-used)
   - [Architecture](#architecture)
